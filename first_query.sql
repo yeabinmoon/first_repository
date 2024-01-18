@@ -1,4 +1,3 @@
 -- This is my first query.
-SELECT col1, col2, col3
+SELECT column1, column2, column3
 FROM TABLE1
-WHERE col1 > 10
